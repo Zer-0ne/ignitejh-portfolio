@@ -4,7 +4,7 @@ import React, { useState } from 'react'
 import startup from '../../assets/startup.svg'
 import onlineLearning from '../../assets/Online learning.svg'
 import { aboutus } from '@/utils/constant'
-import Footer from '@/Components/Footer'
+import Footer from '@/components/Footer'
 const page = () => {
   return (
     <div

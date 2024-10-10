@@ -6,7 +6,7 @@ import temp from '../assets/temp.svg'
 import vision from '../assets/vision.svg'
 import projectDevelopment from '../assets/project development.svg'
 import research from '../assets/Research paper.svg'
-import Footer from "@/Components/Footer";
+import Footer from "@/components/Footer";
 
 export default function Home() {
   const containerStyle = 'flex px-10 flex-1 gap-2 flex-wrap-reverse justify-center'
